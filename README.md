@@ -9,7 +9,8 @@ HypeStore is a **convenient and free Android app store** for open source project
 
 - 🧭 **Explore:** Find popular finished or beta projects that may be useful in your daily life.
 - ⬇️ **Updates:** Get APK updates from your favorite FOSS apps directly from HypeStore.
-- 🎨 **Light and dark mode**: You can also set a light and a dark interval for different times of the day.
+- 🎨 **Light and dark mode*:* You can also set a light and a dark interval for different times of the day.
+- 🐈‍⬛ **GitHub integration:** Allows you to see stars and contributors of the projects.
 
 ## Compatible with
  
