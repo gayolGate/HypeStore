@@ -84,7 +84,7 @@ body:
       options:
         - label: I have searched the issues and this is a new ticket, not a duplicate or related to another open issue.
           required: true
-        - label: I have written a short but informative and clear title. (Example: "App downloading stops at 50%" instead of "bug")
+        - label: I have written a short but informative and clear title. (For example, "App downloading stops at 50%" instead of "bug")
           required: true
         - label: I have updated the app to latest version.
           required: true
