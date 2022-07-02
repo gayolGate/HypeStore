@@ -3,16 +3,24 @@
   <img src="/assets/hypestore.logo.horizontal-1.PNG" width="500">
 </p>
 
-HypeStore is a **convenient and free Android app store** for open source projects, complementary to the Play Store, that allows you to keep your software up to date and discover new projects without restrictions from Google. You can submit your own projects through HypeDev application or sending me a email to *agayol@duck.com*.
+HypeStore is a **convenient and free Android app store** for standard apps and open source projects, complementary to the Play Store, that allows you to keep your software up to date and discover new software without restrictions from Google. You can submit your own projects and apps through HypeDev application or sending me a email to *agayol@duck.com* with all neccesary information and files.
 
-As all applications are open source, it's a completely safe store and you will never be asked for payment to download. However, you can support developers donating so they can improve their apps.
+<hr>
+
+### Projects
+As all **"project"** tagged apps are free and open source, they are completely safe and secure to use. You can support their developers donating some money so they can improve their apps. Projects usually offer quality experiences and alternatives to Big Tech services and are done by developers without profit motive. Some examples are Newpipe, VLC and Firefox.
+
+### Standard Apps
+Closed source apps with profit motive are tagged as **"standard apps"**. Some examples are Facebook, Twitter and Google. We get official versions of popular apps and scan everything through several antiviruses to guarantee safe software.
+
+<hr>
 
 ## Features
 
 <img src="/assets/Features_sign.PNG" width="300">
 
-- 🧭 **Explore:** Find popular finished or beta projects that may be useful in your daily life.
-- ⬇️ **Updates:** Get APK updates from your favorite FOSS apps directly from HypeStore.
+- 🧭 **Explore:** Find popular finished or beta software that may be useful in your daily life.
+- ⬇️ **Updates:** Get APK updates from your favorite apps directly from HypeStore.
 - 🎨 **Light and dark mode**: You can also set a light and a dark interval for different times of the day.
 - 🐈‍⬛ **GitHub integration:** Allows you to see stars and contributors of the projects.
 - ⭐️ **Alternative ratings:** Instead of just rating the apps from 1 to 5, you can also rate separately aspects like:
