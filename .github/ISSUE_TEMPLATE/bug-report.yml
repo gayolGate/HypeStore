@@ -1,0 +1,92 @@
+name: 🇬🇧 Bug or issue report (English)
+description: Report a bug or an issue in HypeStore. Please fill all requested information.
+labels: [bug]
+body:
+
+  - type: textarea
+    id: reproduce-steps
+    attributes:
+      label: Steps to reproduce
+      description: Provide an example of the issue and how it can be intencionally done.
+      placeholder: |
+        Example:
+          1. Launch the app
+          2. Open a random project
+          3. Click on "Install"
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected behavior: What should happen
+      placeholder: |
+        Example:
+          "The app gets installed in my device"
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual-behavior
+    attributes:
+      label: Actual behavior: What actually happens
+      placeholder: |
+        Example:
+          "A cow appears in my screen"
+    validations:
+      required: true
+
+  - type: input
+    id: hypestore-version
+    attributes:
+      label: HypeStore app version
+      description: |
+        You can find your HypeStore version in app settings.
+      placeholder: |
+        Example: "1.0"
+    validations:
+      required: true
+
+  - type: input
+    id: android-version
+    attributes:
+      label: Android version
+      description: |
+        You can find this somewhere in your Android settings or in HypeStore settings device specifications.
+      placeholder: |
+        Example: "Android 12"
+    validations:
+      required: true
+      
+  - type: input
+    id: device-type
+    attributes:
+      label: Device
+      description: |
+        The make and model of your device. You can find this in HypeStore settings device specifications.
+      placeholder: |
+        Example: "Google Pixel 6 Pro"
+    validations:
+      required: true
+
+  - type: textarea
+    id: other-details
+    attributes:
+      label: Other details
+      placeholder: |
+        Additional details and attachments.
+
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: Acknowledgements
+      description: Your issue will be closed if you haven't done these steps.
+      options:
+        - label: I have searched the existing issues and this is a new ticket, **NOT** a duplicate or related to another open issue.
+          required: true
+        - label: I have written a short but informative title.
+          required: true
+        - label: I have updated the app to unstable version **[Latest](https://vuetube.app/install/)**.
+          required: true
+        - label: I will fill out all of the requested information in this form.
+          required: true
