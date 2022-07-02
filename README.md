@@ -29,12 +29,12 @@ You can install HypeStore directly from here (no installer is requiered).
 
 ## Compatible with
  
-- **NewPipe:** A privacy focused lite app to watch YouTube with useful features, like downloading.
-- **VLC:** A video player that works with almost all files, like MPEG-2, MPEG-4, H.264, MKV, WebM...
-- **Brave:** A browser with privacy protection, VPN, rewards and its own independent search engine.
-- **LibreTube:** Another privacy focused YouTube client that can be used in countries where YouTube it's blocked.
-- **VueTube:** A YouTube client with a similar UI to stock YT and features like login with Google account.
-- **Firefox:** A simple but smooth and stable browser without profit motive that respects your privacy.
-- **Aliucord:** A modification of stock Discord app with useful plugins and beautiful themes.
-- **Signal:** An app for private and encrypted communication with your friends that got very popular after WhatsApp Privacy Policy update.
+- [**NewPipe:**](https://github.com/TeamNewPipe/NewPipe) A privacy focused lite app to watch YouTube with useful features, like downloading.
+- [**VLC:**](https://github.com/videolan/vlc) A video player that works with almost all files, like MPEG-2, MPEG-4, H.264, MKV, WebM...
+- [**Brave:**](https://github.com/brave/brave-browser) A browser with privacy protection, VPN, rewards and its own independent search engine.
+- [**LibreTube:**](https://github.com/libre-tube/LibreTube) Another privacy focused YouTube client that can be used in countries where YouTube it's blocked.
+- [**VueTube:**](https://github.com/VueTubeApp/VueTube) A YouTube client with a similar UI to stock YT and features like login with Google account.
+- [**Firefox:**](https://github.com/mozilla-mobile/fenix) A simple but smooth and stable browser without profit motive that respects your privacy.
+- [**Aliucord:**](https://github.com/Aliucord/Aliucord) A modification of stock Discord app with useful plugins and beautiful themes.
+- [**Signal:**](https://github.com/signalapp/Signal-Android) An app for private and encrypted communication with your friends that got very popular after WhatsApp Privacy Policy update.
 - and a lot more!
