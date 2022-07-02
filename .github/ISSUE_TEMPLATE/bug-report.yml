@@ -19,7 +19,7 @@ body:
   - type: textarea
     id: expected-behavior
     attributes:
-      label: Expected behavior: What should happen
+      label: Expected behavior (What should happen)
       placeholder: |
         Example:
           "The app gets installed in my device"
@@ -29,7 +29,7 @@ body:
   - type: textarea
     id: actual-behavior
     attributes:
-      label: Actual behavior: What actually happens
+      label: Actual behavior (What actually happens)
       placeholder: |
         Example:
           "A cow appears in my screen"
