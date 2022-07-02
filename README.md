@@ -17,6 +17,7 @@ HypeStore is a **convenient and free Android app store** for open source project
   - **Storage and battery waste** (should it be lighter?) 🔋
   - **Translations** (if there are translations, they are natural or unreadable?) 🌏
   - **Design and color palette** (it looks great or it blinds you?) 🖼
+- 🔒 **No tracking**: HypeStore doesn't track you at all. There are not accounts. When you rate an app, we use to identify you a randomly generated 10 digits code in your phone that isn't related to your identity or your IP.
   
 ## Compatible with
  
