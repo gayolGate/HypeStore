@@ -5,6 +5,8 @@
 
 HypeStore is a **convenient and free Android app store** for open source projects, complementary to the Play Store, that allows you to keep your software up to date and discover new projects without restrictions from Google. You can submit your own projects through HypeDev application or sending me a email to *agayol@duck.com*.
 
+As all applications are open source, it's a completely safe store and you will never be asked for payment to download. However, you can support developers donating so they can improve their apps.
+
 ## Features
 
 <img src="/assets/Features_sign.PNG" width="300">
