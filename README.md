@@ -22,7 +22,7 @@ Closed source apps with profit motive are tagged as **"standard apps"**. Some ex
 - 🧭 **Explore:** Find popular finished or beta software that may be useful in your daily life.
 - ⬇️ **Updates:** Get APK updates from your favorite apps directly from HypeStore.
 - 🎨 **Light and dark mode**: You can also set a light and a dark interval for different times of the day.
-- 🐈‍⬛ **GitHub integration:** Allows you to see stars and contributors of the projects.
+- 🐈‍⬛ **GitHub integration:** Allows you to see stars and contributors of the projects if they are avaiable in GitHub.
 - ⭐️ **Alternative ratings:** Instead of just rating the apps from 1 to 5, you can also rate separately aspects like:
   - **Idea** (good or bad concept?) 💡
   - **Usage** (it has bugs or it's clean and smooth?) ☁️
