@@ -20,4 +20,5 @@ HypeStore is a **convenient and free Android app store** for open source project
 - **VueTube:** A YouTube client with a similar UI to stock YT and features like login with Google account.
 - **Firefox:** A simple but smooth and stable browser without profit motive that respects your privacy.
 - **Aliucord:** A modification of stock Discord app with useful plugins and beautiful themes.
+- **Signal:** An app for private and encrypted communication with your friends that got very popular after WhatsApp Privacy Policy update.
 - and a lot more!
