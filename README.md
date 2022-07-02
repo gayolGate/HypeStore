@@ -16,7 +16,8 @@ HypeStore is a **convenient and free Android app store** for open source project
 - **NewPipe:** A privacy focused lite app to watch YouTube with useful features, like downloading.
 - **VLC:** A video player that works with almost all files, like MPEG-2, MPEG-4, H.264, MKV, WebM...
 - **Brave:** A browser with privacy protection, VPN, rewards and its own independent search engine.
-- **LibreTube:** Another privacy focused YouTube client that can be used in countries in where YouTube it's blocked.
+- **LibreTube:** Another privacy focused YouTube client that can be used in countries where YouTube it's blocked.
 - **VueTube:** A YouTube client with a similar UI to stock YT and features like login with Google account.
 - **Firefox:** A simple but smooth and stable browser without profit motive that respects your privacy.
+- **Aliucord:** A modification of stock Discord app with useful plugins and beautiful themes.
 - and a lot more!
