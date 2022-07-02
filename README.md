@@ -3,7 +3,7 @@
   <img src="/assets/hypestore.logo.horizontal-1.PNG" width="500">
 </p>
 
-HypeStore is a **convenient and free Android app store** for standard apps and open source projects, complementary to the Play Store, that allows you to keep your software up to date and discover new one without restrictions and limitations from Google. You can submit your own projects and apps through HypeDev application or sending me a email to *agayol@duck.com* with all neccesary info and files.
+HypeStore is a **free Android app store**, complementary to the Play Store, that allows you to keep your favorite software up to date and discover new one without unnecesary restrictions and limitations. Currently there are avaiable **0 standard apps** and **0 projects**.
 
 ✔️ Malware and Spyware free: All apps checked manually <br>
 ✔️ App modifications and third party stores avaiable
