@@ -1,16 +1,16 @@
 ---
-name: Bug report
-about: Report a bug in HypeStore app.
+name: 🇬🇧 Bug or issue report (English)
+about: Report a bug or an issue in HypeStore. Fill all requested information.
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+A clear and simple description of what the bug is.
 
-**To Reproduce**
+**How to reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
