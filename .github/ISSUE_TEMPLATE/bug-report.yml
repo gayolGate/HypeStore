@@ -74,7 +74,7 @@ body:
     attributes:
       label: Other details
       placeholder: |
-        Additional details and attachments.
+        Additional details and attachments to help us.
 
   - type: checkboxes
     id: acknowledgements
@@ -82,11 +82,11 @@ body:
       label: Acknowledgements
       description: Your issue will be closed if you haven't done these steps.
       options:
-        - label: I have searched the existing issues and this is a new ticket, **NOT** a duplicate or related to another open issue.
+        - label: I have searched the issues and this is a new ticket, not a duplicate or related to another open issue.
           required: true
-        - label: I have written a short but informative title.
+        - label: I have written a short but informative and clear title. (Example: "App downloading stops at 50%" instead of "bug")
           required: true
-        - label: I have updated the app to unstable version **[Latest](https://vuetube.app/install/)**.
+        - label: I have updated the app to latest version.
           required: true
         - label: I will fill out all of the requested information in this form.
           required: true
