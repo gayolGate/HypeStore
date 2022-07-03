@@ -36,12 +36,14 @@ Closed source apps with profit motive are tagged as **"standard apps"**. Some ex
   - **Translations** (if there are translations, they are natural or unreadable?) 🌏
   - **Design and color palette** (it looks great or it blinds you?) 🖼
 - 🔒 **No tracking**: HypeStore doesn't track you at all. There are not accounts. When you rate an app, we use to identify you a randomly generated 10 digits code in your phone that isn't related to your identity or your IP.
-- 📖 **Newsteller:** Newsteller section of the app includes opinions about projects, apps and games, news and recommendations by HypeStore Team, with at least one article per week, apart from aditional resources from third party webs. You can unsubscribe for not seeing it anymore.
+- 📖 **Newsletter:** Newsteller section of the app includes opinions about projects, apps and games, news and recommendations by HypeStore Team, with at least one article per week, apart from aditional resources from third party webs. You can unsubscribe for not seeing it anymore.
 
 ## Install
 
-You can install HypeStore directly from here (no installer is requiered).
-**If Play Protect it's enabled, it will warn you because the app developer isn't recognized by Google. You can ignore it.**
+You can install HypeStore directly from here (no installer is requiered). **If Play Protect it's enabled, it will warn you because the app developer isn't recognized by Google. You can ignore it.** You can install any of these versions:
+
+- **Normal:** The full and standard version of the store, with everything you need.
+- **Lite:** A very lightweight and optimized version designed for slow or old devices.
 
 ## Projects avaiable
  
