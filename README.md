@@ -9,6 +9,8 @@ HypeStore is a **free Android app store**, complementary to the Play Store, that
 ✔️ App modifications and third party stores avaiable <br>
 ✔️ No geo-restrictions or monopolistic policies
 
+**Go to:** <a href="#features">Features</a> &bull; <a href="#install">Install</a> &bull; <a href="#projects-avaiable">Projects avaiable</a>
+
 <hr>
 
 ### 📝 Projects
