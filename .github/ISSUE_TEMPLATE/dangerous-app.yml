@@ -1,6 +1,6 @@
 name: ❌ Dangerous App Report - English
 description: If you discovered that an app in HypeStore has malware, report it inmediately
-labels: [dangerous app] [high preference]
+labels: [dangerous app],[high preference]
 body:
 
   - type: textarea
