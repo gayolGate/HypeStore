@@ -3,7 +3,7 @@
   <img src="/assets/hypestore.logo.horizontal-1.PNG" width="500">
 </p>
 
-[<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/135px-Bandera_de_Espa%C3%B1a.svg.png" width="40px">](readme.es.md)
+[<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/135px-Bandera_de_Espa%C3%B1a.svg.png" width="40px">](README.es.md)
 
 HypeStore is a **free Android app store**, complementary to the Play Store, that allows you to keep your favorite software up to date and discover new one without unnecesary restrictions and limitations. Currently there are avaiable **0 standard apps** and **0 projects**.
 
