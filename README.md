@@ -43,6 +43,8 @@ Closed source apps with profit motive are tagged as **"standard apps"**. Some ex
 
 ## Install
 
+<img src="/assets/Install_sign.PNG" width="300">
+
 You can install HypeStore directly from here (no installer is requiered). **If Play Protect it's enabled, it will warn you because the app developer isn't recognized by Google. You can ignore it.** You can install any of these versions:
 
 - **Normal:** The full and standard version of the store, with everything you need.
