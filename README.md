@@ -33,14 +33,14 @@ Closed source apps with profit motive are tagged as **"standard apps"**. Some ex
 - 🧭 **Explore:** Find popular finished or beta software that may be useful in your daily life.
 - ⬇️ **Updates:** Get APK updates of your favorite apps directly from HypeStore.
 - 🎨 **Light and dark mode**: You can also set a light and a dark interval for different times of the day.
-- 🐈‍⬛ **GitHub integration:** Allows you to see stars and contributors of the projects if they are avaiable in GitHub.
+- 📡 **GitHub integration:** Allows you to see stars and contributors of the projects if they are avaiable in GitHub.
 - ⭐️ **Alternative ratings:** Instead of just rating the apps from 1 to 5, you can also rate separately aspects like:
   - **Idea** (good or bad concept?) 💡
   - **Usage** (it has bugs or it's clean and smooth?) ☁️
   - **Storage and battery waste** (should it be lighter?) 🔋
   - **Translations** (if there are translations, they are natural or unreadable?) 🌏
   - **Design and color palette** (it looks great or it blinds you?) 🖼
-- 🔒 **No tracking**: HypeStore doesn't track you at all. There are not accounts. When you rate an app, we use to identify you a randomly generated 10 digits code in your phone that isn't related to your identity or your IP.
+- 🔒 **No tracking**: HypeStore doesn't track you at all. There are not accounts. When you rate an app, we use to identify you a randomly generated 10 digits code in your phone that isn't related to your identity or your IP. You can reset this ID at any time.
 - 📖 **Newsletter:** Newsteller section of the app includes opinions about projects, apps and games, news and recommendations by HypeStore Team, with at least one article per week, apart from aditional resources from third party webs. You can unsubscribe for not seeing it anymore.
 - 💻 **GHDB:** HypeStore works extracting data from [database](/database) folder of this GitHub repository, including ratings, APKs, photos, descriptions and more, so the app is uptime 100% of the time.
 - 📑 **Opensource:** Of couse, we are opensource. You can download the .AIA file and edit whatever you want to make forks or even new applications (with atribution to the original project).
