@@ -40,7 +40,7 @@ Closed source apps with profit motive are tagged as **"standard apps"**. Some ex
   - **Design and color palette** (it looks great or it blinds you?) 🖼
 - 🔒 **No tracking**: HypeStore doesn't track you at all. There are not accounts. When you rate an app, we use to identify you a randomly generated 10 digits code in your phone that isn't related to your identity or your IP.
 - 📖 **Newsletter:** Newsteller section of the app includes opinions about projects, apps and games, news and recommendations by HypeStore Team, with at least one article per week, apart from aditional resources from third party webs. You can unsubscribe for not seeing it anymore.
-- 💻 **GHDB:** HypeStore works extracting data from folders of this GitHub repository, including ratings, APKs, photos, descriptions and more, so the app is uptime 100% of the time.
+- 💻 **GHDB:** HypeStore works extracting data from [database](/database) folder of this GitHub repository, including ratings, APKs, photos, descriptions and more, so the app is uptime 100% of the time.
 - 📑 **Opensource:** Of couse, we are opensource. You can download the .AIA file and edit whatever you want to make forks or even new applications (with atribution to the original project).
 
 ## Install
