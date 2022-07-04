@@ -1,0 +1,57 @@
+name: 🇬🇧❌ Dangerous App Report (English)
+description: If you discovered that an app in HypeStore has malware, report it inmediately
+labels: [dangerous app]
+body:
+
+  - type: textarea
+    id: reproduce-steps
+    attributes:
+      label: Name of the app
+      description: What's the name of the dangerous app?
+      placeholder: |
+        Example:
+          "PureTuber"
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Type of malware detected
+      placeholder: |
+        Example:
+          "Spyware", "Ransomware" or "Adware"
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual-behavior
+    attributes:
+      label: How have you discovered it? What's the evidence?
+      placeholder: |
+        Example:
+          "This antivirus got positive scanning the app"
+    validations:
+      required: true
+
+  - type: textarea
+    id: other-details
+    attributes:
+      label: Other details
+      placeholder: |
+        Additional details and attachments to help us.
+
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: Acknowledgements
+      description: Your report will be closed if you haven't done these steps.
+      options:
+        - label: I'm reporting an app currently avaiable in HypeStore.
+          required: true
+        - label: I'm sure the app has malware and I have provided evidences of it.
+          required: true
+        - label: I'm not reporting an opensource project verified by us, but an closedsource app.
+          required: true
+        - label: I assume that, if this is a joke or some attempt to delete an app without reasons, I will get banned.
+          required: true
