@@ -12,12 +12,15 @@ HypeStore is a **free Android app store**, complementary to the Play Store, that
 **Go to:** <a href="#features">Features</a> &bull; <a href="#install">Install</a> &bull; <a href="#projects-avaiable">Projects avaiable</a>
 
 <hr>
+<details>
+<summary> Types of apps avaiable </summary>
 
 ### 📝 Projects
 As all **"project"** tagged apps are free and open source, they are completely safe and secure to use. You can support their developers donating some money so they can improve their apps. Projects usually offer quality experiences and alternatives to Big Tech services and are done by developers without profit motive. Some examples are *Newpipe*, *VLC* and *Firefox*.
 
 ### 📃 Standard Apps
 Closed source apps with profit motive are tagged as **"standard apps"**. Some examples are *Facebook*, *Google* and games like *Clash of Clans*. We get official versions of popular apps and scan everything through several antiviruses to guarantee safe software.
+</details>
 
 <hr>
 
