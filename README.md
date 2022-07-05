@@ -66,3 +66,7 @@ You can install HypeStore directly from here (no installer is requiered). **If P
 - [**Aliucord:**](https://github.com/Aliucord/Aliucord) A modification of stock Discord app with useful plugins and beautiful themes.
 - [**Signal:**](https://github.com/signalapp/Signal-Android) An app for private and encrypted communication with your friends that got very popular after WhatsApp Privacy Policy update.
 - and a lot more!
+
+## About Piracy
+
+HypeStore isn't a piracy app and we don't support piracy. Paid games or applications are not avaiable in the store for direct downloading, instead there are links for purchasing them. You can still do reviews and comments through the app. Don't look for free paid content with this store.
