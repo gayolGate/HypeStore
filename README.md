@@ -71,4 +71,5 @@ You can install HypeStore directly from here (no installer is requiered). **If P
 
 HypeStore isn't a piracy app and we don't support piracy. Paid games or applications are not avaiable in the store for direct downloading, instead there are links for purchasing them. You can still do reviews and comments through the app. Don't look for free paid content with this store.
 
-## Security levels in app
+## Security levels in apps
+
