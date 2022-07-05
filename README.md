@@ -81,3 +81,7 @@ HypeStore isn't a piracy app and we don't support piracy. Paid games or applicat
 
 <img src= "/assets/mediumsecurity.PNG" width="40px"> <br>
 **Common apps that have been scanned through several antiviruses like VirusTotal and have passed.**
+
+## For developers
+
+You can submit your app
