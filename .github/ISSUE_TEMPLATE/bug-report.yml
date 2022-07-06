@@ -10,7 +10,7 @@ body:
       description: Provide an example of the issue and how it can be intencionally done.
       placeholder: |
         Example:
-          1. Launch the app
+          1. Launch HypeStore
           2. Open a random app
           3. Click on "Install"
     validations:
