@@ -3,7 +3,7 @@
   <img src="/assets/hypestore.logo.horizontal-1.PNG" width="500">
 </p>
 
-[<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/135px-Bandera_de_Espa%C3%B1a.svg.png" width="40px">](README.es.md)
+[<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/135px-Bandera_de_Espa%C3%B1a.svg.png" width="40px">](README.es.md) [También en Español / Also in Spanish ](README.es.md)
 
 HypeStore is a **free Android app store**, complementary to the Play Store, that allows you to keep your favorite software up to date and discover new one without unnecesary restrictions and limitations. Currently there are avaiable **0 standard apps** and **0 projects**.
 
@@ -32,7 +32,7 @@ Closed source apps with profit motive are tagged as **"standard apps"**. Some ex
 
 - 🧭 **Explore:** Find popular finished or beta software that may be useful in your daily life.
 - ⬇️ **Updates:** Get APK updates of your favorite apps directly from HypeStore.
-- 🎨 **Light and dark mode**: You can also set a light and a dark interval for different times of the day.
+- 🎨 **Light and dark mode:** You can also set a light and a dark interval for different times of the day.
 - 📡 **GitHub integration:** Allows you to see stars and contributors of the projects if they are avaiable in GitHub.
 - ⭐️ **Alternative ratings:** Instead of just rating the apps from 1 to 5, you can also rate separately aspects like:
   - **Idea** (good or bad concept?) 💡
@@ -40,6 +40,7 @@ Closed source apps with profit motive are tagged as **"standard apps"**. Some ex
   - **Storage and battery waste** (should it be lighter?) 🔋
   - **Translations** (if there are translations, they are natural or unreadable?) 🌏
   - **Design and color palette** (it looks great or it blinds you?) 🖼
+- 👍👎 **Vote reviews:** Uptote or downvote any review. Reviews with a lot more downvotes than upvotes will be invalid.
 - 🔒 **No tracking**: HypeStore doesn't track you at all. There are not accounts. When you rate an app, we use to identify you a randomly generated 10 digits code in your phone that isn't related to your identity or your IP. You can reset this ID at any time.
 - 📖 **Newsletter:** Newsteller section of the app includes opinions about projects, apps and games, news and recommendations by HypeStore Team, with at least one article per week, apart from aditional resources from third party webs. You can unsubscribe for not seeing it anymore.
 - 🏆 **Levels:** If you enable this, you will get XP points supporting projects made by community that can be used for getting rewards.
