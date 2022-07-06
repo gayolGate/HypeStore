@@ -9,10 +9,10 @@ body:
       label: Steps to reproduce
       description: Provide an example of the issue and how it can be intencionally done.
       placeholder: |
-        Example:
-          1. Launch the app
-          2. Open a random project
-          3. Click on "Install"
+        Example: <br>
+          1. Launch the app <br>
+          2. Open a random project <br>
+          3. Click on "Install" <br>
     validations:
       required: true
 
