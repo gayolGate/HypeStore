@@ -29,7 +29,7 @@ body:
   - type: textarea
     id: actual-behavior
     attributes:
-      label: Resultado actúal (Que pasa realmente)
+      label: Resultado actual (Que pasa realmente)
       placeholder: |
         Ejemplo:
           "Una vaca aparece en mi pantalla y no puedo usar mi teléfono"
@@ -39,9 +39,9 @@ body:
   - type: input
     id: hypestore-version
     attributes:
-      label: HypeStore app version
+      label: Versión de HypeStore
       description: |
-        You can find your HypeStore version in app settings.
+        Puedes encontrar tu versión de HypeStore en los ajustes..
       placeholder: |
         Example: "1.0"
     validations:
