@@ -10,29 +10,29 @@ body:
       description: Da un ejemplo del error y cómo podemos causarlo intencionadamente.
       placeholder: |
         Ejemplo:
-          1. Abre la app
-          2. Open a random app
-          3. Click on "Install"
+          1. Inicia HypeStore
+          2. Abre una app cualquiera
+          3. Haz clic en "Instalar"
     validations:
       required: true
 
   - type: textarea
     id: expected-behavior
     attributes:
-      label: Expected behavior (What should happen)
+      label: Resultado esperado (Que debería pasar)
       placeholder: |
-        Example:
-          "The app gets installed in my device"
+        Ejemplo:
+          "La aplicación se instala en mi dispositivo"
     validations:
       required: true
 
   - type: textarea
     id: actual-behavior
     attributes:
-      label: Actual behavior (What actually happens)
+      label: Resultado actúal (Que pasa realmente)
       placeholder: |
-        Example:
-          "A cow appears in my screen and I can't use my phone"
+        Ejemplo:
+          "Una vaca aparece en mi pantalla y no puedo usar mi teléfono"
     validations:
       required: true
 
