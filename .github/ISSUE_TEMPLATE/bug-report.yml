@@ -9,10 +9,10 @@ body:
       label: Steps to reproduce
       description: Provide an example of the issue and how it can be intencionally done.
       placeholder: |
-        Example: <br>
-          1. Launch the app <br>
-          2. Open a random project <br>
-          3. Click on "Install" <br>
+        Example:
+          1. Launch the app
+          2. Open a random app
+          3. Click on "Install"
     validations:
       required: true
 
@@ -32,7 +32,7 @@ body:
       label: Actual behavior (What actually happens)
       placeholder: |
         Example:
-          "A cow appears in my screen"
+          "A cow appears in my screen and I can't use my phone"
     validations:
       required: true
 
