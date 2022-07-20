@@ -1,3 +1,5 @@
+⚠️ APP IN EARLY DEVELOPEMENT AND NOTHING AVAIABLE AT THE MOMENT ⚠️
+
 # HypeStore
 <p align="center">
   <img src="/assets/hypestore.logo.horizontal-1.PNG" width="500">
